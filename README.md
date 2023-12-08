@@ -1,9 +1,11 @@
-# 자습서: WinUI 3를 사용하여 간단한 사진 뷰어 만들기
+#  WinUI 3를 사용하여 간단한 사진 뷰어 만들기
   
 ![image](https://github.com/gryrryfh/SimplePhotos/assets/50912987/9c46ce1a-574f-43a7-ae28-39e96cf377e8)  
   
 ## 프로젝트 설명  
 
+ WinUI 3를 사용하여 간단한 사진 뷰어 만들기
+   
 Visual Studio WinUI3(빈앱, 패키지됨)  
 ![image](https://github.com/gryrryfh/SimplePhotos/assets/50912987/9814767a-bfe7-456c-9387-b848c6486895)  
 프로젝트 이름 : SimplePhotos, 솔루션 및 프로젝트를 같은 디렉터리에 배치 해제  
