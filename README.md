@@ -1,5 +1,7 @@
 # 자습서: WinUI 3를 사용하여 간단한 사진 뷰어 만들기
   
+![image](https://github.com/gryrryfh/SimplePhotos/assets/50912987/9c46ce1a-574f-43a7-ae28-39e96cf377e8)  
+  
 ## 프로젝트 설명  
 
 Visual Studio WinUI3(빈앱, 패키지됨)  
@@ -23,7 +25,7 @@ GridView와 같은 항목 컨트롤과 관련된 또 다른 개념은 항목 컨
 
 ImageFileInfo.h, pch.h, ImageFileInfo.cpp, Mainwindow.idl, Mainwindow.xaml.cpp, Mainwindow.xaml 코드 추가  
 
-## 실행결과 : ![image](https://github.com/gryrryfh/SimplePhotos/assets/50912987/9c46ce1a-574f-43a7-ae28-39e96cf377e8)
+
 
 ### 출처 : https://learn.microsoft.com/ko-kr/windows/apps/get-started/simple-photo-viewer-winui3?tabs=cpp
 
